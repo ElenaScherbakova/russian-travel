@@ -1,0 +1,17 @@
+.cover__background {
+  position: absolute;
+  z-index: -1;
+  width: 100%;
+  margin: 0 auto;
+  box-sizing: border-box;
+
+}
+
+.cover__background::after {
+  background: #2A2C2F;
+  opacity: 0.3;
+}
+
+.cover__background:hover::after {
+  opacity: 0.8;
+}
