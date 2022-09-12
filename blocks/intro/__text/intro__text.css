@@ -15,24 +15,19 @@
   }
 }
 
-@media screen and (min-width: 1025px) and (max-width: 1280px) {
-  .intro__text {
-    padding: 40px 442px 0 148px;
-  }
-}
-@media screen and (min-width: 768px) and (max-width: 1024px) {
+@media screen and  (max-width: 1279px) {
   .intro__text {
     padding: 40px 286px 0 48px;
   }
 }
 
-@media screen and (min-width: 321px) and (max-width:  767px) {
+@media screen and  (max-width:  1023px) {
   .intro__text {
     padding: 40px 24px 0;
   }
 }
 
-@media screen and (max-width:  320px) {
+@media screen and (max-width:  767px) {
   .intro__text {
     padding: 40px 16px 0;
   }

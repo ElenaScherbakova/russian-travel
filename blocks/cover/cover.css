@@ -1,0 +1,7 @@
+.cover {
+  display: flex;
+  position: relative;
+  padding: 92px 48px;
+  width: calc(100% - 96px);
+  flex-direction: column;
+}

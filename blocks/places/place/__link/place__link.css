@@ -8,5 +8,9 @@
   color: #FFFFFF;
   text-align: start;
 
-
 }
+
+.place__link:hover {
+  opacity: 0.8;
+}
+

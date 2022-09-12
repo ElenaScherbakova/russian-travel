@@ -1,32 +1,33 @@
 .lead__image {
   margin: 0 auto;
+  width: 100%;
 }
 
 @media screen and (min-width: 1280px)  {
   .lead__image {
-    padding: 64px 148px 0;
+    padding-top: 64px;
   }
 }
 
 @media screen and (min-width: 1025px) and (max-width: 1280px) {
   .lead__image {
-    padding: 64px 148px 0;
+    padding-top: 64px;
   }
 }
 @media screen and (min-width: 768px) and (max-width: 1024px) {
   .lead__image {
-    padding: 56px 48px 0;
+    padding-top: 56px;
   }
 }
 
 @media screen and (min-width: 321px) and (max-width:  767px) {
   .lead__image {
-    padding: 56px 0 0;
+    padding-top: 56px;
   }
 }
 
 @media screen and (max-width:  320px) {
   .lead__lang {
-    padding: 40px 0 0;
+    padding-top: 40px;
   }
 }
