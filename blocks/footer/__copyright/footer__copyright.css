@@ -7,13 +7,14 @@
   color: #FFFFFF;
   text-align: right;
   margin: 0;
+
 }
 
-@media screen and (max-width:  320px) {
+@media screen and (max-width:  767px) {
   .footer__copyright   {
     flex-direction: column;
-    margin-top: 16px;
-    font-size: 14px;
+    text-align: left;
+
     line-height: 1;
   }
 }

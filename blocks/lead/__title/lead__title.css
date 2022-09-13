@@ -15,14 +15,7 @@
   }
 }
 
-@media screen and (min-width: 1025px) and (max-width: 1280px) {
-  .lead__title {
-    padding-top: 56px;
-    font-size: 96px;
-    line-height: 1.04;
-  }
-}
-@media screen and (min-width: 768px) and (max-width: 1024px) {
+@media screen and  (max-width: 1279px) {
   .lead__title {
     padding-top: 48px;
     font-size: 96px;
@@ -30,7 +23,7 @@
   }
 }
 
-@media screen and (min-width: 321px) and (max-width:  767px) {
+@media screen and  (max-width:  1023px) {
   .lead__title {
     padding-top: 48px;
     font-size: 96px;
@@ -38,7 +31,7 @@
   }
 }
 
-@media screen and (max-width:  320px) {
+@media screen and (max-width:  767px) {
   .lead__title {
     padding-top: 48px;
     font-size: 40px;
