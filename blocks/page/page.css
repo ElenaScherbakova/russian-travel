@@ -25,6 +25,10 @@
   url("../../fonts/Inter Web/Inter-Black.woff?v=3.19") format("woff");
 }
 
+.body {
+  font-family: 'Inter',"Arial", sans-serif;
+}
+
 .page {
   margin: 0 auto;
 
