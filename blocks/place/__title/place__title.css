@@ -35,5 +35,7 @@
     width: calc(100% - 32px);
     font-size: 32px;
     line-height: 1.09;
+    padding: 0 16px 0;
   }
 }
+
