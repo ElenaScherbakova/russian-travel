@@ -9,28 +9,18 @@
 }
 
 
-
-@media screen and (max-width: 1279px) {
-  .footer {
-
-
-  }
-}
-
 @media screen and  (max-width:  1023px) {
   .footer {
-
     padding: 88px 24px 24px;
 
   }
 }
 
-
 @media screen and (max-width:  767px) {
   .footer {
     flex-direction: column;
     justify-content: space-between;
-    margin-top: 16px;
+    padding: 64px 118px 24px 16px;
 
   }
 }
